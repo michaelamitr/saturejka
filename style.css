@@ -8,11 +8,11 @@ html {
 h1,
 h2 {
   font-family: 'Playfair Display', serif;
+  text-align: center;
 }
 
-img {
-  size: 20px;
-  position: ;
+.img {
+  width: 20%;
 }
 
 header {
