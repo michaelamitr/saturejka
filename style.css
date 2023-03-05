@@ -19,6 +19,7 @@ h2 {
 header {
   background-color: #ffefef;
   text-align: center;
+  align-items: center;
 }
 
 footer {
