@@ -11,13 +11,16 @@ h2 {
 }
 
 img {
-  img size: 20px;
+  size: 20px;
+  position: ;
 }
 
 header {
   background-color: #ffefef;
+  text-align: center;
 }
 
 footer {
-  background-color: #ffffff
+  background-color: #ffffff;
+  text-align: center;
 }
